@@ -1,0 +1,17 @@
+.button {
+    background-color: white;
+    color: grey;
+    border-radius: 50%;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointers;
+    animation: background 200ms ease;
+    
+    
+
+}
+.button:hover {
+    background-color: aliceblue;
+    
+}

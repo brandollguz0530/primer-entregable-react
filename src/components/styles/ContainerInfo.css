@@ -1,0 +1,50 @@
+.containerInfo-title {
+    font-family: 'Rajdhani', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    text-shadow: 5px 5px 1px var(--grey);
+    text-transform: uppercase;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.containerInfo-phrase {
+    color: #7c547c;
+    background-color: #ffffffd3;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    margin-bottom: 30px;
+   
+
+}
+
+.containerInfo-phrase:hover {
+    background-color: rgba(169, 169, 169, 0.493);
+}
+
+.containerInfo-author {
+    
+    background-color: #ffffffa9;
+    color: #7c547c;
+    font-weight: lighter;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 20px;
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    
+}

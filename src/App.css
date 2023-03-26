@@ -1,0 +1,25 @@
+.App {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px
+}
+
+.bg1 {
+    background-image: url("/public/images/bg1.jpg");
+}
+
+.bg2 {
+    background-image: url("/public/images/bg2.jpg");
+}
+
+.bg3 {
+    background-image: url("/public/images/bg3.jpg");
+}
+
+.bg4{
+    background-image: url("/public/images/bg4.jpg");
+}
